@@ -58,7 +58,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'sidtechtalent.urls'
+ROOT_URLCONF = 'travel.urls'
 
 TEMPLATES = [
     {
@@ -76,7 +76,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'sidtechtalent.wsgi.application'
+WSGI_APPLICATION = 'travel.wsgi.application'
 
 
 # Database
