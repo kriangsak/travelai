@@ -1,5 +1,5 @@
 """
-WSGI config for sidtechtalent project.
+WSGI config for travel project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
